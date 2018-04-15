@@ -1,0 +1,17 @@
+.navigation__include{
+	text-align: left;
+	margin-top: 55px;
+    font-family: "Marmelad-Regular";
+    padding-left: 30px;
+}
+.navigation__include li:before {
+	background-image: url('../../../img/raindrop.png');
+	background-repeat: no-repeat;
+	width: 24px;
+	height: 24px;
+	content: '';
+	display: block;
+	position: absolute;
+    right: 15px;
+    left: 0px;
+}

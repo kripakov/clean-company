@@ -1,0 +1,12 @@
+.content__wrap{
+    position: absolute !important;
+    top: 30px;
+    right: -28px;
+    padding: 50px 25px 50px 80px;
+    border: 1px solid #888;
+    background: #fff;
+    float: right !important;
+}
+.content__wrap .content__address, .content__wrap .content__phone{
+	margin-left: 40px;
+}

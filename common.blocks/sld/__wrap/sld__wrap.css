@@ -1,0 +1,9 @@
+.sld__wrap{
+	padding: 0 !important;
+	float: none !important;
+}
+
+.sld__wrap:after, .sld__wrap:before{
+	content: " ";
+    display: table;
+}

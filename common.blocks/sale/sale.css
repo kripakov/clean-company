@@ -1,0 +1,13 @@
+.sale{
+	float: right;
+    position: absolute;
+	margin-left: 10px;
+	width: 300px;
+}
+.sale ul span:first-child{
+	margin-top: 10px;
+}
+.sale span:nth-child(2) a{
+	font-size: 45px;
+	    color: #25C9FC;
+}

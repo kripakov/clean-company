@@ -1,0 +1,16 @@
+.grid__wrap-image{
+	position: relative;
+    width: 290px;
+    cursor: pointer;
+    display: block;
+    margin-right: 15px;
+}
+.grid__wrap-image img{
+	margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    width: 290px;
+}

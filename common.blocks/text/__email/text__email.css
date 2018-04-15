@@ -1,0 +1,8 @@
+.text__email{
+    font-family: "Marmelad-Regular";
+    color: #777272;
+    font-size: 18px;
+    border-right: 1px solid #B7B2B2;
+    border-left: 1px solid #B7B2B2;
+    padding-left: 10px;
+}

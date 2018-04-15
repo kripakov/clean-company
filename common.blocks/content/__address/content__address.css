@@ -1,0 +1,9 @@
+.content__address span, .content__phone span{
+    font-size: 20px;
+    color: #25C9FC;
+    font-family: 'Marmelad-Regular';
+}
+.content__address .text, .content__phone .navigation{
+	font-family: "Marmelad-Regular";
+    margin: 10px 0 15px 10px;
+}

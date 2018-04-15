@@ -1,0 +1,18 @@
+.mdl__close{
+	color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    height: 24px;
+    width: 24px;
+    position: absolute;
+    top: 7px;
+    right: 12px;
+}
+
+.mdl__close:hover,
+.mdl__close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}

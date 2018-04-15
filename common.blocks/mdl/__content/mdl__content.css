@@ -1,0 +1,15 @@
+.mdl__content{
+	position: relative;
+	float: none !important;
+	background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    top: -70px;
+    border: 1px solid #888;
+    z-index: 1
+}
+
+.mdl__content:after, .mdl__content:before{
+    content: " ";
+    display: table;
+}

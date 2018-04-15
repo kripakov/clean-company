@@ -1,0 +1,10 @@
+.text__tel{
+	position: relative;
+    font-family: "Marmelad-Regular";
+    color: #777272;
+    font-size: 18px;
+    float: right;
+    padding-right: 20px;
+    height: 30px;
+    top: -13px;
+}

@@ -1,0 +1,11 @@
+.text__icons{
+	background-image: url('../../../img/telephone-symbol-button.png');
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    position: relative;
+    top: 14px;
+    height: 25px;
+    width: 25px;
+    display: block;
+    float: left;
+}

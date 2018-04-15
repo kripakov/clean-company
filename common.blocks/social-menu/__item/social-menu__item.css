@@ -1,0 +1,28 @@
+.social-menu__item{
+	margin: 0 0 0 1px;
+    padding: 0;
+    float: left;
+    position: relative;
+    top: 1px;
+    margin-right: 20px;
+    height: 25px;
+    width: 25px;
+}
+.social-menu__item:hover ul, .social-menu__item.hover ul{
+	display: block;
+}
+.social-menu__item img {
+    cursor: pointer;
+}
+.social-menu__item a{
+	background-repeat: no-repeat;
+    background-position: 100% 100%;
+    position: absolute;
+    top: 28px;
+    height: 25px;
+    width: 25px;
+    cursor: pointer;
+}
+.social-menu__item a{
+	
+}

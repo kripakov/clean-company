@@ -1,0 +1,16 @@
+.navigation__pricing{
+	text-align: left;
+    font-family: "Marmelad-Regular";
+    padding-left: 30px;
+}
+.navigation__pricing li:before {
+	background-image: url('../../../img/raindrop.png');
+	background-repeat: no-repeat;
+	width: 24px;
+	height: 24px;
+	content: '';
+	display: block;
+	position: absolute;
+    right: 15px;
+    left: 0px;
+}

@@ -1,0 +1,9 @@
+.grid__before{
+    background-size: cover;
+    width: 147px;
+    height: 218px;
+    position: absolute;
+    background-repeat: no-repeat;
+    border-right: 1px solid gray;
+    top: 41px;
+}

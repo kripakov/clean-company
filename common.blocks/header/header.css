@@ -1,0 +1,10 @@
+.header{
+	background-color: #fbf8f8;
+    line-height: 80px;
+	border-bottom: 1px solid #B7B2B2;
+	border-top: 6px solid #25C9FC;
+}
+
+.sld .container{
+	width: 100%
+}

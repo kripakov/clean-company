@@ -1,0 +1,16 @@
+.gallery__title{
+position: absolute;
+    z-index: 999;
+    width: 100%;
+    top: 25px;
+}
+.gallery__title .item{
+	text-align: center;
+    max-width: 910px;
+    margin: 0 auto;
+    font-size: 45px;
+    padding: 10px;
+    background: #25C9FC;
+    border-radius: 5px;
+    font-family: "Marmelad-Regular";
+}

@@ -1,0 +1,11 @@
+.say li{
+	text-align: center;
+	padding-top: 10px;
+}
+
+.say .bx-viewport{
+	height: 400px
+}
+.say .bx-wrapper{
+	margin: 0
+}

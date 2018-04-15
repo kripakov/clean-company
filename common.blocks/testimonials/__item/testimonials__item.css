@@ -1,0 +1,12 @@
+.testimonials__item {
+	text-align: center;
+	font-family: "Marmelad-Regular";
+}
+.testimonials__item div{
+	font-size: 65px;
+	    color: #25C9FC;
+}
+.testimonials__item a{
+	font-family: "Marmelad-Regular";
+	color: #000;
+}

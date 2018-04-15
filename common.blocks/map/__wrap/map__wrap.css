@@ -1,0 +1,6 @@
+.map__wrap{
+	position: relative;
+}
+.map__wrap .input {
+    width: 100%;
+}

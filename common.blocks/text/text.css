@@ -1,0 +1,13 @@
+.text{
+	display: block;
+    position: relative;
+    height: 25px;
+}
+
+.text:before, .text:after{
+    content: " ";
+    display: table;
+}
+.text:after{
+	clear: both;
+}

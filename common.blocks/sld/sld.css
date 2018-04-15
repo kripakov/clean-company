@@ -1,0 +1,10 @@
+.sld .container{
+	width: 100%
+}
+.sld .row{
+	margin: 0px;
+}
+.mdl__content:after, .mdl__content:before{
+    content: " ";
+    display: table;
+}
